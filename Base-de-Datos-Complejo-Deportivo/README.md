@@ -44,4 +44,3 @@ El proyecto incluye el relevamiento de necesidades, requisitos funcionales y no 
 ## Contexto académico
 
 Proyecto grupal realizado durante el primer cuatrimestre de 2026 en UADE, como parte de la formación en Ingeniería Informática.
-[Ver proyecto completo en GitHub](https://github.com/juan-esposito/Base-de-datos-relacional-para-complejo-deportivo)
